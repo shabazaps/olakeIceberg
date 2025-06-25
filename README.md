@@ -95,7 +95,7 @@ df.show()
 
 Screenshots
 
-![SparkCLI](screenshot.png)
+![](Image/Screenshot.png)
 
 Challenges & Improvements
 
