@@ -94,7 +94,8 @@ df = spark.sql("SELECT * FROM hadoop_catalog.my_db.my_table")
 df.show()
 
 Screenshots
-screenshot.png
+
+![SparkCLI](screenshot.png)
 
 Challenges & Improvements
 
