@@ -95,8 +95,7 @@ df.show()
 
 Screenshots
 
-
-![Screenshot](https://github.com/user-attachments/assets/73a79f4e-dcfc-4f84-a778-0cad44989092)
+![SparkCLI](screenshot.png)
 
 Challenges & Improvements
 
